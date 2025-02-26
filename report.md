@@ -324,6 +324,9 @@ The coverage after our new tests was:
 
 Where we can see that there has been an significant increase in the code and branch coverage!
 
+### Tests added
+Pontus: https://github.com/Soffan-Group-3/gson/blob/main/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java#L110-L122 and https://github.com/Soffan-Group-3/gson/blob/main/gson/src/test/java/com/google/gson/stream/JsonReaderTest.java#L125-L136
+
 ### Hanna
 I have analyzed the function parse(), found @./gson/src/main/java/com/google/gson/internal/bind/util/ISO8601Utils.
 
